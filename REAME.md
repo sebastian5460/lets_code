@@ -1,0 +1,1 @@
+This is a technology blog where users and admins can post topics about programming and technology.
